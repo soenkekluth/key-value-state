@@ -1,7 +1,7 @@
 {
   "name": "key-value-state",
-  "version": "1.0.0",
-  "description": "observable stateful key value object store Edit",
+  "version": "1.0.1",
+  "description": "observable stateful key value object store",
   "main": "index.js",
   "scripts": {
     "test": "ava"
