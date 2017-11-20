@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/soenkekluth/object-state-store.svg?branch=master)](https://travis-ci.org/soenkekluth/object-state-store)
 
 # key-value-state
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/soenkekluth/key-value-state.svg)](https://greenkeeper.io/)
 > observable stateful key value object store
 
 
